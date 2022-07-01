@@ -1,5 +1,7 @@
 # Song Play Anaysis _(Data Modeling)_
 
+Define fact and dimension tables for a star schema for a particular analytic focus, and write an ETL pipeline that transfers data from files in two local directories into Postgres tables using Python and SQL.
+
 #### Fact Table
  - songplays - records in log data associated with song plays i.e. records with page NextSong
 
